@@ -1,4 +1,4 @@
-# Phone Book app & Node as server side
+# Running stats app & Node as server side
 
 A simple html & js app for managing phone-book
 
